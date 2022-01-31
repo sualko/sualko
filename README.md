@@ -8,6 +8,7 @@
 - 📈 [BPMN/DMN Viewer and Editor for Nextcloud](https://github.com/Loydl/nc-bpm-app), commissional work
 - 🎥 [Federated video conference](https://prototypefund.de/project/foederierte-audio-und-video-konferenzen-via-xmpp/), funding
 - 🗣️ [Simulation for civil protection executives](https://prototypefund.de/project/einsatzsimulator-fuer-fuehrungskraefte-des-bevoelkerungsschutzes/), funding
+- 📧 [Outlook Plugin for Nextcloud](https://github.com/Sendent-B-V/Sendent-App-for-Nextcloud), commissional contribution
 
 #### Languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
