@@ -25,3 +25,6 @@ Nextjs + Material UI + Prisma + Axios + SWR + Joi + Iron Session + Jest
 
 #### Latest 🤯
 Typescript allows [custom type predicates](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates).
+
+#### Social
+🐘<a rel="me" href="https://fosstodon.org/@sualko">Find me on Mastodon</a>
