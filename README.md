@@ -27,4 +27,4 @@ Nextjs + Material UI + Prisma + Axios + SWR + Joi + Iron Session + Jest
 Typescript allows [custom type predicates](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates).
 
 #### Social
-🐘<a rel="me" href="https://fosstodon.org/@sualko">Find me on Mastodon</a>
+🐘 <a rel="me nofollow" href="https://fosstodon.org/@sualko">Find me on Mastodon</a>
